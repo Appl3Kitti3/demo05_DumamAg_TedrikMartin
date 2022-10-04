@@ -6,3 +6,10 @@
   background-color:gainsboro;
   height: 100px;
 }
+.card-img-top {
+  margin-left: 25%;
+}
+
+.card img {
+  width: 50%;
+}
