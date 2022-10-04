@@ -1,1 +1,8 @@
-
+#brand_logo {
+  width: 98px;
+  height: 92px;
+}
+.b-example-divider {
+  background-color:gainsboro;
+  height: 100px;
+}
